@@ -10,7 +10,7 @@ Este projeto consolida os conhecimentos de componentização e layout, aplicando
 
  
 
-O projeto consiste em uma seção de depoimentos que exibe três cards lado a lado. O objetivo é praticar a composição de um layout de seção a partir de componentes menores e utilizar padrões modernos de Flexbox para criar um design de colunas que se adapta a diferentes tamanhos de tela.
+O projeto consiste em uma seção de depoimentos que exibe quatro cards lado a lado. O objetivo é praticar a composição de um layout de seção a partir de componentes menores e utilizar padrões modernos de Flexbox para criar um design de colunas que se adapta a diferentes tamanhos de tela.
 
  
 
